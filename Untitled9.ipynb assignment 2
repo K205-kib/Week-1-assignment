@@ -1,0 +1,117 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPRt5craVUW7TaSAnl4VD/9",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/K205-kib/Week-1-assignment/blob/main/Untitled9.ipynb%20assignment%202\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": 1,
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "sPbD8kgQ0l8Z",
+        "outputId": "d7e64992-f674-45dd-a0bf-032edb7d57c7"
+      },
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "('conda', 'create --name ds_env python=3.11')"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 1
+        }
+      ],
+      "source": [
+        "('conda', 'create --name ds_env python=3.11')"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "('conda', 'activate ds_env')"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "IPn1pI483s3Z",
+        "outputId": "390d8492-0a7a-4222-f26c-52c90287b951"
+      },
+      "execution_count": 2,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "('conda', 'activate ds_env')"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 2
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "('conda', 'install numpy, pandas, matplotlib, seaborn, scikit-learn, scipy')"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "BdaICILr6h7J",
+        "outputId": "5f279ccb-bbd3-4c22-87c1-fff730b41792"
+      },
+      "execution_count": 3,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "('conda', 'install numpy, pandas, matplotlib, seaborn, scikit-learn, scipy')"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 3
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "YNLm1Jsx9qH8"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
